@@ -1,2 +1,2 @@
-# Capstone1
+# capstone1
 My capstone 1
